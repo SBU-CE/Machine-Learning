@@ -16,7 +16,7 @@ Dr. Armin Salimi Badr
 
 - [Mohammad Hashemi](https://github.com/mohammadhashemii)
 - [Narges Ghesesmi](https://github.com/NNargesNN)
-- [Naghme Farzi](https://github.com/hamidds)
+- [Hamid Saffari](https://github.com/hamidds)
 - [Ali Salimi Sadr]()
 - [Amir Masoud Shaker]()
 
