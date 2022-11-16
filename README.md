@@ -30,3 +30,5 @@ Telegram Channel: https://t.me/SBU_ML_Fall2022
 | ---------------------------------------------------------------------------------------------------- | ----------------- | ----------- |
 | [Python Review](https://github.com/SBU-CE/Machine-Learning/tree/main/fall-2022/labs/1_python-review) | [Link](https://drive.google.com/folderview?id=1-b8vpjIznlRBWwsKzA2WrPD-RztXIh4u) | - |
 | [Numpy & Pandas Tutorial](https://github.com/SBU-CE/Machine-Learning/tree/main/fall-2022/labs/2_numpy-pandas-sklearn-tutorial) | [Link](https://drive.google.com/file/d/1ZLOUAnUGW4U3liXG90SxE7aoZ1IcQ9Wl/view?usp=sharing) | [Introduction to Data Science in Python *(Coursera)*](https://www.coursera.org/learn/python-data-analysis) |
+| [Linear Regression & Binary Classification](https://github.com/SBU-CE/Machine-Learning/tree/main/fall-2022/labs/3_regression_and_classification) | [Part 1](https://drive.google.com/file/d/1mEnnpDVwjsQ9eBLGkdewCLUanjxouvET/view?usp=sharing), [Part 2] (https://drive.google.com/file/d/173shAQgEQDOy79JWk58UR4u3dCfkN9_H/view?usp=sharing) | - |
+
