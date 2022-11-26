@@ -18,7 +18,7 @@ Dr. Armin Salimi Badr
 - [Narges Ghesesmi](https://github.com/NNargesNN)
 - [Hamid Saffari](https://github.com/hamidds)
 - [Ali Salimi Sadr]()
-- [Amir Masoud Shaker]()
+- [Amir Masoud Shaker](https://github.com/MasoudShaker)
 
 ## Links
 
